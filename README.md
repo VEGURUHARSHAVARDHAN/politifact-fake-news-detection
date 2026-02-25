@@ -134,6 +134,3 @@ predict_fake_news(content_text, image_path)
 
 ---
 
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
